@@ -74,4 +74,10 @@
   #nav-bar nav a {
     display: none;
   }
+
+  #nav-bar nav a.menu-icon {
+    display: block;
+    float: right;
+    font-size: 1.5em;
+  }
 }
